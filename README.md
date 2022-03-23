@@ -1,1 +1,1 @@
-# jltx-server-dashboard
+# server-dashboard
